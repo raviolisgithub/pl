@@ -1,0 +1,9 @@
+Expr: Plus or minus term
+
+Term: Mul or div factor
+
+Factor: Any (int) or (float)
+
+Int - (Interger) is a whole number.
+
+Float - is a decimal number.
